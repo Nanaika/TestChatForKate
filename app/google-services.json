@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "386631975140",
+    "project_id": "testchatforkate",
+    "storage_bucket": "testchatforkate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386631975140:android:73deafb87b2c2720116cf1",
+        "android_client_info": {
+          "package_name": "com.example.testchatforkate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386631975140-equefjohrb2nulkt66sbc8a9fucmh2hj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testchatforkate",
+            "certificate_hash": "d57a89f020a568b76c50d18d255d0d5cceb12bf6"
+          }
+        },
+        {
+          "client_id": "386631975140-0en2vg3m3rmgq142kfndaafhdsjo35j2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy-4BAs3lp-Ihurd-plobmRNvFU6JZkso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386631975140-0en2vg3m3rmgq142kfndaafhdsjo35j2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
